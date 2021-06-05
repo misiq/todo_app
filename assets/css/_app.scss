@@ -28,3 +28,11 @@ form button:hover {
 	background: #d88711;
 	color: #fff;
 }
+
+i {
+	pointer-events: none;
+}
+
+.todo button {
+	cursor: pointer;
+}
